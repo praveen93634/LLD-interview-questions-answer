@@ -15,7 +15,7 @@ Each project focuses on **object-oriented design, modularity, and clean code pri
 | 📦 **Stock Management System** | Tracks product stock, thresholds, and transaction history. | `src/StockManagement/` |
 | 🐍 **Snake Game (Console Based)** | A simple console-based snake game demonstrating OOP design. | `src/SnakeGame/` |
 | 🚧 **Toll Payment Management System** | Handles toll collection, vehicle tracking, and VIP exemptions. | `src/TollPaymentSystem/` |
-| 📚 **Library Management System** | Manages book issue/return, member records, and fines. | `src/LibraryManagement/` |
+| 📚 **Library Management System** | Manages book issue/return, member records. | `src/LibraryManagement/` |
 | 📧 **Mail Management System** | Simulates sending, receiving, and organizing mails. | `src/MailManagement/` |
 
 ---
